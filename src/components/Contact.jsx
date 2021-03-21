@@ -45,26 +45,11 @@ function ContactIcons() {
         <MailIconSVG role="img" aria-label="Mail" />
       </IconLink>
       <IconLink
-        href={authorSocial.github}
+        href="https://blog.ofo.moe"
         rel="author noopener"
         target="_blank"
       >
-        <GitHubIconSVG role="img" aria-label="GitHub" />
-      </IconLink>
-      <IconLink
-        href={authorSocial.linkedin}
-        rel="author noopener"
-        target="_blank"
-      >
-        <LinkedInIconSVG role="img" aria-label="LinkedIn" />
-      </IconLink>
-      <IconLink
-        href={authorSocial.medium}
-        rel="author noopener"
-        target="_blank"
-      >
-        <MediumIconSVG role="img" aria-label="Medium" />
-      </IconLink>
+
     </ContactContainer>
   );
 }
