@@ -41,9 +41,7 @@ function ContactIcons() {
 
   return (
     <ContactContainer>
-      <IconLink href={author.email} rel="author">
-        <MailIconSVG role="img" aria-label="Mail" />
-      </IconLink>
+
       <IconLink
         href="https://blog.ofo.moe"
         rel="author noopener"
