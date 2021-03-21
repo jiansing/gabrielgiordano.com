@@ -3,14 +3,15 @@ slug: /
 lang: en
 seo:
   title: Home
-  description: Gabriel Giordano is a Software Engineer, currently working at SumUp previously at IBM and is also an open-source contributor.
+  description: Hello. Get **tips** about GIF! It is a bitmap image format.
+
 content:
   liveTitle:
     - Hello.
-    - It's Gabriel Giordano.
-    - I'm a Software Engineer at SumUp.
-    - I'm also an open-source contributor.
+    - Get tips about GIF!
+    - Graphics Interchange Format.
+    - It is a bitmap image format.
   title: About Me
 ---
 
-Hello. My name is **Gabriel Giordano**. I'm a Software Engineer currently working at **SumUp**. Previously, at **IBM**. I'm also an open-source contributor.
+Hello. Get **tips** about GIF! It is a bitmap image format.
