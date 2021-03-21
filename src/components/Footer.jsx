@@ -49,31 +49,9 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterContentContainer>
-        <SmallText>Open-sourced on </SmallText>
-        <SmallIconLink
-          href={siteSocial.repository}
-          rel="external noopener"
-          target="_blank"
-        >
-          <GitHubIconSVG role="img" aria-label="GitHub Repository" />
-        </SmallIconLink>
-        <SmallText>built with </SmallText>
-        <SmallIconLink
-          href={siteSocial.react}
-          rel="external noopener"
-          target="_blank"
-        >
-          <ReactIconSVG role="img" aria-label="React" />
-        </SmallIconLink>
-        <SmallText>,</SmallText>
-        <SmallIconLink
-          href={siteSocial.gatsby}
-          rel="external noopener"
-          target="_blank"
-        >
-          <GatsbyIconSVG role="img" aria-label="Gatsby" />
-        </SmallIconLink>
-        <SmallText>.</SmallText>
+        <a href="https://icp.gov.moe" target="_blank">萌ICP备 </a><a href="https://icp.gov.moe/?keyword=20212298" target="_blank"> 20212298号</a>
+
+
       </FooterContentContainer>
     </FooterContainer>
   );
