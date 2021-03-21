@@ -11,6 +11,7 @@
 \/___________/
 
 
-This website was built with React and Gatsby by Gabriel Giordano Medina.
+<a href="https://icp.gov.moe" target="_blank">萌ICP备 </a><a href="https://icp.gov.moe/?keyword=20212298" target="_blank"> 20212298号</a>
 
-hello@gabrielgiordano.com
+
+ovo@gov.moe
